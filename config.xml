@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <widget version="1.0.0">
-    <name>App-Name</name>
+    <name>Bon</name>
     <description>
-        App-Beschreibung
+        Meine erste Webbapp
     </description>
     <author>
-        Dein Name
+        Mark Pfister
     </author>
 
     <!-- General settings -->
